@@ -1,3 +1,10 @@
-git branching
+CVCS
+
+VCS => version controle system
+CVCS => centralised version controle system
+DVCS => distributed version controle system
+
+creating branch 
+merging branches
 
 
