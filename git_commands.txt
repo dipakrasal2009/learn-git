@@ -8,5 +8,53 @@ creating branch
 merging branches
 
 merge branch and create pull request
-
+---------------------------------------------------------
+2122  got log --oneline
+ 2123  git log --oneline
+ 2124  git reflog HEAD@{0}
+ 2125  ls
+ 2126  vim git_commands.txt 
+ 2127  git reflog HEAD@{2.days.ago}
+ 2128  vim git_commands.txt 
+ 2129  clear
+ 2130  cd 
+ 2131  cd Desktop/github/
+ 2132  ks
+ 2133  ls
+ 2134  clear
+ 2135  ls
+ 2136  cd learn-git/
+ 2137  ls
+ 2138  git show HEAD
+ 2139  git status
+ 2140  git add .
+ 2141  git status
+ 2142  git commit -m "add tow another commands to this file"
+ 2143  git push
+ 2144  git show HEAD
+ 2145  git show
+ 2146  git log --oneline
+ 2147  git show 16e477a
+ 2148  git show bb067e6
+ 2149  clear
+ 2150  ls
+ 2151  git status -s
+ 2152  ls
+ 2153  git branch
+ 2154  git branch -d dipak
+ 2155  git branch -D dipak
+ 2156  git status
+ 2157  clear
+ 2158  ls
+ 2159  clear
+ 2160  git log --oneline
+ 2161  git reset
+ 2162  git reset d34a3a2
+ 2163  git log --oneline
+ 2164  git status
+ 2165  git restore git_commands.txt 
+ 2166  git status
+ 2167  git push
+ 2168  git push -f
+ 2169  history
 
