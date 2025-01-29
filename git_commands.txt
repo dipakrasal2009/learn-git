@@ -7,4 +7,6 @@ DVCS => distributed version controle system
 creating branch 
 merging branches
 
+merge branch and create pull request
+
 
